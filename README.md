@@ -1,4 +1,6 @@
 
+#Attention! This is a work-in-progress repository! Currently, it only converts SCN files to PNG files.
+
 # ScnTron
 
 ScnTron is a Python program for processing .scn files commonly used in microbiology. It includes functions for converting .scn files to other image formats and for extracting metadata from .scn files.
