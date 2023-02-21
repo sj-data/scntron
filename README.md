@@ -32,8 +32,6 @@ This will start the ScnTron program and display the main menu.
 From the main menu, you can select various options for processing .scn files, including:
 
 - Convert .scn files to other image formats, such as .tif or .jpg
-- Extract metadata from .scn files, such as the image size and acquisition parameters
-- Analyze .scn files for various properties, such as intensity distributions and particle tracking
 
 To select an option, simply enter the corresponding number and follow the prompts.
 
@@ -42,8 +40,7 @@ To select an option, simply enter the corresponding number and follow the prompt
 Here are a few examples of how to use ScnTron:
 
 - To convert a .scn file named "example.scn" to a .tif file, select option 1 from the main menu and follow the prompts.
-- To extract metadata from a .scn file named "example.scn", select option 2 from the main menu and follow the prompts.
-- To analyze a .scn file named "example.scn" for particle tracking, select option 3 from the main menu and follow the prompts.
+
 
 ## Credits
 
