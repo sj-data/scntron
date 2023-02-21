@@ -1,4 +1,4 @@
-```
+
 # ScnTron
 
 ScnTron is a Python program for processing .scn files commonly used in microbiology. It includes functions for converting .scn files to other image formats and for extracting metadata from .scn files.
@@ -46,4 +46,4 @@ Here are a few examples of how to use ScnTron:
 ## Credits
 
 ScnTron was developed by [Your Name] as part of [Your Project or Organization]. If you have any questions or feedback, please contact [Your Email Address].
-```
+
