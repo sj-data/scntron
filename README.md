@@ -1,5 +1,5 @@
 
-#Attention! This is a work-in-progress repository! Currently, it only converts SCN files to PNG files.
+# Attention! This is a work-in-progress repository! Currently, it only converts SCN files to PNG files.
 
 # ScnTron
 
