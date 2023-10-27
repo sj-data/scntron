@@ -40,9 +40,3 @@ To select an option, simply enter the corresponding number and follow the prompt
 Here are a few examples of how to use ScnTron:
 
 - To convert a .scn file named "example.scn" to a .tif file, select option 1 from the main menu and follow the prompts.
-
-
-## Credits
-
-ScnTron was developed by [Your Name] as part of [Your Project or Organization]. If you have any questions or feedback, please contact [Your Email Address].
-
